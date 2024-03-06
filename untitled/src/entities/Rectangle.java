@@ -40,5 +40,7 @@ public class Rectangle {
         System.out.println("Sum of the areas: " + sumAreas);
         System.out.println("Sum of the perimeters: " + sumPerimeters);
     }
+
+
 }
 
